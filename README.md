@@ -1,6 +1,6 @@
-# 👗✨ Gen-AI Virtual Try-On Clothes
+# 👗✨ FitFusionAI
 
-Welcome to the **Gen-AI Virtual Try-On Clothes** platform! This innovative project leverages **Generative AI** to offer realistic, real-time virtual try-on experiences. Upload images of a model and a garment to see how the clothes would fit and look — ideal for fashion, retail, and e-commerce solutions.
+Welcome to the **FitFusionAI** platform! This innovative project leverages **Generative AI** to offer realistic, real-time virtual try-on experiences. Upload images of a model and a garment to see how the clothes would fit and look — ideal for fashion, retail, and e-commerce solutions.
 
 ---
 
@@ -41,8 +41,8 @@ Welcome to the **Gen-AI Virtual Try-On Clothes** platform! This innovative proje
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Ownned3389/Gen-AI-Virtual-Try-On-Clothes.git
-cd Gen-AI-Virtual-Try-On-Clothes
+git clone https://github.com/AswiniMitikiri/GFitFusionAI.git
+cd FitFusionAI
 ```
 
 ### 2. Set Up Backend
