@@ -41,7 +41,7 @@ Welcome to the **FitFusionAI** platform! This innovative project leverages **Gen
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AswiniMitikiri/GFitFusionAI.git
+git clone https://github.com/AswiniMitikiri/FitFusionAI.git
 cd FitFusionAI
 ```
 
